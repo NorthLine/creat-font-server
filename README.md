@@ -1,6 +1,5 @@
 # creatFontTxtServer
 
-
 creatFontTxtServer 在线造字生成字体的工具。
 
 通过插入拼接字组成你所需要的字
@@ -11,10 +10,10 @@ creatFontTxtServer 在线造字生成字体的工具。
 
 # npm Scripts
 
-####reSet font
+#### reSet font
 用于重置字体，项目初次调用的时候使用一次就可以了
 
-####run server
+#### run server
 启动服务，启动之后就可以来造字了。服务端口webAddress:8082(例：http://localhost:8082)
 
 
@@ -59,7 +58,7 @@ group任意
 delFalg:0
 
 
-#项目说明
+# 项目说明
 本项目基于exprss+mysql来搭建服务
 
 主要使用的工具是[font-carrier](http://purplebamboo.github.io/font-carrier/)+[PNGToSVG](https://github.com/mayuso/PNGToSVG)
