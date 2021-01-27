@@ -6,7 +6,7 @@ creatFontTxtServer 在线造字生成字体的工具。
 通过插入拼接字组成你所需要的字
 
 # 安装
-
+ 
 `npm i`
 
 # npm Scripts
