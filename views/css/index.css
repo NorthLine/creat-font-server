@@ -1,0 +1,30 @@
+.canvasBox {
+    height: 500px;
+    width: 500px;
+    border: 1px solid #2a6496;
+}
+.listbox{
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+}
+.list{
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 160px;
+    height: 200px;
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+.list img{
+    width: 140px;
+    height: 140px;
+    margin-bottom: 14px;
+}
+.searchBox{
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    padding-bottom: 20px;
+}
