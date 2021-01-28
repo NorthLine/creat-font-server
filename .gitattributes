@@ -1,2 +1,3 @@
-*.tcl linguist-language=javascript
-*.Tcl linguist-language=Javascript
+*.tcl linguist-language=JavaScript
+*.Tcl linguist-language=JavaScript
+*.exe linguist-language=JavaScript
